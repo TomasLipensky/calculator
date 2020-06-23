@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/tomaslipensky/az400/_apis/build/status/TomasLipensky.calculator?branchName=master)](https://dev.azure.com/tomaslipensky/az400/_build/latest?definitionId=3&branchName=master)
